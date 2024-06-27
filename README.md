@@ -1,9 +1,5 @@
-## api
 
-## exec
-
-## event
-
+## 使用示例
 ```js
 
 import jsBridge from 'js-bridge';
@@ -24,3 +20,8 @@ if (isSupportApi) {
 }
 
 ```
+
+## 功能结构
+### api
+### exec
+### event
